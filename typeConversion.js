@@ -18,5 +18,41 @@ console.log(typeof numricalPrice);
 
 console.log(numricalPrice);
 console.log(price);
+ 
+
+// convert a number to a string
+
+ let age = 100;
+
+  let ageText = String(age);
+
+  console.log(age)
+  console.log(typeof age)
+
+  console.log(ageText);
+  console.log(typeof ageText);
+
+  // convert a value to a boolean
+   console.log(Boolean(1));
+   console.log(Boolean (0))
+
+
+   //Implicit Conversion
+
+   let x = 10;
+   let y = "20";
+
+   let result = x + y;
+
+   console.log(result);
+   console.log(typeof result);
+
+   let a = 10;
+   let b = "20";
+
+   let result1 = a * b;
+
+   console.log(result1);
+   console.log(typeof result1);     
 
 
