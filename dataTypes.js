@@ -19,7 +19,7 @@ console.log(selectedUser);
 console.log(typeof selectedUser);
 
 let bigNumber = 12932939939n;
-console.log(bigNumber);
+console.log(bigNumber);l
 
 
 let id= Symbol("id");
